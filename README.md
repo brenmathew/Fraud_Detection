@@ -18,9 +18,9 @@ The project assumes a specific dataset format for training and evaluation.
 The dataset should be a structured file (e.g., CSV) containing relevant information about each transaction,
 including features and labels. Ensure that your dataset adheres to the required format to ensure proper data preprocessing and model training.
 
- Kindly mail me at brenmathew10@gmail.com for ths specific dataset.
+ Kindly mail me at brenmathew10@gmail.com for this specific dataset.
 
-# Tasks Done:
+# Questions answered:
 
 1.Data cleaning including missing values, outliers and multi-collinearity
  - As the data was normally organized, We did not have a necessity to do high level data cleaning. Although, we dropped the rows with NaN values. We also split the data during data and validation sets. Hence, the data cleaning part was done on a lower level.
