@@ -1,6 +1,5 @@
 # Fraud Detection
-This project is aimed at developing a fraud detection system 
-using machine learning techniques. It provides a set of tools and algorithms to 
+This project analyzes and models large datasets to develop algorithms that can identify fraudulent activities, helping businesses mitigate financial risks It provides a set of tools and algorithms to 
 identify and flag fraudulent activities based on a given dataset.
 
 # Overview
